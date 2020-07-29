@@ -47,7 +47,7 @@ Make sure the file is in the same directory
 4. You can use any browser, not just Chrome as long as it has a supporting webdriver and install it manually.
 
 ## :dragon: Debugging
-This program uses a CSS Selector to find out where exactly to write the message, just like a human would. And that keeps changing over time based on how [WhatsApp Web](web.whatsapp.com) is designed. So all we have to do is update the CSS Selector in the code, by doing the following:
+This program uses a CSS Selector to find out where exactly to write the message, just like a human would. And that keeps changing over time based on how [WhatsApp Web](web.whatsapp.com) is designed.Hence in the future, you have have to made some changes, to make the code run efficiently.
 
 That's it. :smiley:
 
