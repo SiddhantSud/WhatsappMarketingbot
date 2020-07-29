@@ -30,7 +30,7 @@ This tool sends messages to all the contacts you give it from a text file on you
 2. `cd` to the project folder.
 3. Install the requirements using `pip install -r requirements.txt`
 
-### :Phone: Adding Phone Numbers
+### :iphone: Adding Phone Numbers
 You can export an excel file containing only the numbers of the people you need to send the message to in txt format.
 Make sure the file is in the same directory
 
